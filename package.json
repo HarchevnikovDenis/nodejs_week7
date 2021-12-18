@@ -1,0 +1,28 @@
+{
+  "name": "week7",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harchevnikovdenis/nodejs_week7.git"
+  },
+  "keywords": [],
+  "author": "Kharchevnikov Denis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harchevnikovdenis/nodejs_week7.git"
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14",
+    "pug": "^3.0.2",
+    "puppeteer": "^13.0.0"
+  }
+}
